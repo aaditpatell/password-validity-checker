@@ -13,3 +13,7 @@ A command-line utility for generating random passwords and checking password str
 ```
 python password_tool.py
 ```
+
+
+
+had a similar python quiz to this during one of my labs at TMU, recreated but a bit improved, done kind of scuffed
