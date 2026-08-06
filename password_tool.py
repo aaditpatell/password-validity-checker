@@ -3,9 +3,9 @@ import string
 
 COMMON_PASSWORDS = [
     "password", "123456", "12345678", "qwerty", "abc123",
-    "monkey", "1234567", "letmein", "trustno1", "dragon",
-    "baseball", "iloveyou", "master", "sunshine", "ashley",
-    "michael", "shadow", "123123", "654321", "superman"
+    "apples", "1234567", "bananas", "meow", "soccer",
+    "hockey", "tmu", "computerscience", "cps209", "sin-kei",
+    "aadit", "zelda", "patel", "sidneycrosby", "usainbolt"
 ]
 
 
